@@ -15,14 +15,14 @@ Algunas aclaraciones del proyecto.
   - Las búsquedas se hizo con otros endpoints porque no lo pude hacer de la manera que se solicitaba. Pero están documentas en el link, ver Documentación de endpoints (*).
 
 - Búsqueda de Películas o Series
-  -Las búsquedas /movies?name=nombre y  /movies?genre=idGenero
+  - Las búsquedas /movies?name=nombre y  /movies?genre=idGenero
   se hizo con otro endpoints porque no lo pude hacer de la manera que se solicitaba. Pero están documentas en el link, ver Documentación de endpoints (*).
-  -La búsqueda /movies?order=ASC | DESC no se pudo realizar.
+  - La búsqueda /movies?order=ASC | DESC no se pudo realizar.
 
 - Envío de emails
   -No se pudo realizar.
   
 - Documentación
-  -En el siguiente link están documentados los diferentes endpoints. 
+  - En el siguiente link están documentados los diferentes endpoints. 
   (*)https://www.getpostman.com/collections/afa8132b812e1c396df7
 
