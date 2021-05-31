@@ -12,15 +12,15 @@ Algunas aclaraciones del proyecto.
   - Nota: falta completar este punto de la autenticación.
   
 - Búsqueda de Personajes
-  - Las búsquedas se hizo con otros endpoints porque no lo pude hacer de la manera que se solicitaba. Pero están documentas en el link, ver Documentación de endpoints (*).
+  - Las búsquedas se hizo con otros endpoints porque no lo pude hacer de la manera que se solicitaba. Pero están documentados en el link, ver Documentación (*).
 
 - Búsqueda de Películas o Series
   - Las búsquedas /movies?name=nombre y  /movies?genre=idGenero
-  se hizo con otro endpoints porque no lo pude hacer de la manera que se solicitaba. Pero están documentas en el link, ver Documentación de endpoints (*).
+  se hizo con otro endpoints porque no lo pude hacer de la manera que se solicitaba. Pero están documentados en el link, ver Documentación (*).
   - La búsqueda /movies?order=ASC | DESC no se pudo realizar.
 
 - Envío de emails
-  -No se pudo realizar.
+  - No se pudo realizar.
   
 - Documentación
   - En el siguiente link están documentados los diferentes endpoints. 
